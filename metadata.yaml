@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '34548'
     url: http://www.gutenberg.org/2009/agents/34548
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30355#O-senhor-Dom-Miguel-I-e-a-senhora-Dona-Maria-II--13-Compara--es-reflex-es-desengano
 gutenberg_issued: '2009-10-29'
 gutenberg_type: Text
 identifiers:
